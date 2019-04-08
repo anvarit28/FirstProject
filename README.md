@@ -1,1 +1,2 @@
 # FirstProject
+  learnig Git
